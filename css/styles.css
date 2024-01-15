@@ -12,6 +12,9 @@ hr {
 }
 
 
+.hero {
+  min-height: 580px;
+}
 
 .header__image {
   z-index: -10;
@@ -32,6 +35,8 @@ hr {
   top: 0;
   height: 100%;
   width: 100%;
+  min-height: 580px;
+
 
   background: linear-gradient(rgba(0, 0, 0, 0.5) 100%, transparent);
 }
