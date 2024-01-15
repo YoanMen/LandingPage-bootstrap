@@ -8,6 +8,6 @@ Site link: https://www.association-keratocone.fr/
 
 
 
-![screen_1](https://github.com/YoanMen/LandingPage-bootstrap/assets/screenshots/screenshot_1.png)
-![screen_2](https://github.com/YoanMen/LandingPage-bootstrap/assets/screenshots/screenshot_2.png)
-![screen_3](https://github.com/YoanMen/LandingPage-bootstrap/assets/screenshots/screenshot_3.png)
+![screen_1](https://github.com/YoanMen/LandingPage-bootstrap/blob/dev/screenshots/screenshot_1.png)
+![screen_2](https://github.com/YoanMen/LandingPage-bootstrap/blob/dev/screenshots/screenshot_2.png)
+![screen_3](https://github.com/YoanMen/LandingPage-bootstrap/blob/dev/screenshots/screenshot_3.png)
