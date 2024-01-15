@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@200;400;600;700;900&family=Marmelad&display=swap');
+
+
+:root {
+  --heading: 'Marmelad', sans-serif;
+  --bs-body-font-family: 'Lexend', sans-serif;
+}
+
+
+hr {
+  border: 2px dashed black;
+}
+
+
+
+.header__image {
+  z-index: -10;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  min-height: 580px;
+  object-fit: cover;
+  object-position: right center;
+  background-color: black;
+}
+
+
+.header__image--gradient {
+  z-index: -9;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+
+  background: linear-gradient(rgba(0, 0, 0, 0.5) 100%, transparent);
+}
